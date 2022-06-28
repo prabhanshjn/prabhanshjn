@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning and exploring React.😬
 - 👯 I’m looking to collaborate with others on Reactjs and TypeScript.
 - 🥅 2022 Goals: Learn and Strengthen skills on Frontend Web Development
-- 🤔 I’m looking forward to learning Backend Development.
+- 🤔 I’m looking forward to learn Backend Development.
 - ⚡ Fun fact: I love playing badminton and video games.
 
 
