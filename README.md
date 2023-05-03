@@ -1,12 +1,12 @@
 # Hello, I'm [Prabhansh][website] 👋
 
-### I'm a Web Developer!!
+### I'm a FullStack Web Developer!!
 
-- 🔭 I am working on react, redux and typescript for LOOK4KOL.
-- 🌱 I’m currently learning and exploring React.😬
-- 👯 I’m looking to collaborate with others on Reactjs and TypeScript.
-- 🥅 2022 Goals: Learn and Strengthen skills on Frontend Web Development
-- 🤔 I’m looking forward to learn Backend Development.
+- 🔭 I am working on react, redux, typescript, node.js and express for LOOK4KOL.
+- 🌱 I’m currently learning and exploring Advanced Javascript.😬
+- 👯 I’m looking to collaborate with others on Reactjs and Nodejs.
+- 🥅 2023 Goals: Strengthn my full stack tech stack and create more projects.
+- 🤔 I’m looking forward to do more coding exercises and challanges.
 - ⚡ Fun fact: I love playing badminton and video games.
 
 
