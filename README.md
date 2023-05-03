@@ -41,6 +41,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhanshjn&show_icons=true&theme=radical)  
 
-[website]: https://prabhansh-portfolio.herokuapp.com/
+[website]: https://portfolio-b9fec.web.app/
 [linkedin]: https://www.linkedin.com/in/prabhansh-jain-660243158/
 [twitter]: https://twitter.com/prabhanshjain
