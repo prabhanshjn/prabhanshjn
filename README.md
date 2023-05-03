@@ -1,4 +1,4 @@
-# Hello, I'm [Prabhansh][website] 👋
+# Hello, I'm [Prabhansh][website] 👋🏻
 
 ### I'm a FullStack Web Developer!!
 
