@@ -39,7 +39,7 @@
 
 ### :chart_with_upwards_trend: The STATS 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhanshjn&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=prabhanshjn&show_icons=true&theme=radical)  
 
 [website]: https://portfolio-b9fec.web.app/
 [linkedin]: https://www.linkedin.com/in/prabhansh-jain-660243158/
