@@ -2,10 +2,10 @@
 
 ### I'm a FullStack Web Developer!!
 
-- 🔭 I am working on react, redux, typescript, node.js and express for LOOK4KOL.
-- 🌱 I’m currently learning and exploring Advanced Javascript.😬
+- 🔭 I am working on MERN for Moongate.
+- 🌱 I’m eagerly learning new technologies and spaces.
 - 👯 I’m looking to collaborate with others on Reactjs and Nodejs.
-- 🥅 2023 Goals: Strengthn my full stack tech stack and create more projects.
+- 🥅 2024 Goals: Strengthn my full stack tech stack and create more projects.
 - 🤔 I’m looking forward to do more coding exercises and challanges.
 - ⚡ Fun fact: I love playing badminton and video games.
 
