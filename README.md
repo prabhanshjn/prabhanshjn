@@ -2,7 +2,7 @@
 
 ### I'm a FullStack Web Developer!!
 
-- 🔭 I am working on MERN for Moongate.
+- 🔭 I am working on MERN for Coinpilot.
 - 🌱 I’m eagerly learning new technologies and spaces.
 - 👯 I’m looking to collaborate with others on Reactjs and Nodejs.
 - 🥅 2024 Goals: Strengthn my full stack tech stack and create more projects.
